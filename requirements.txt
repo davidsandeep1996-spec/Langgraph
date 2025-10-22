@@ -1,5 +1,7 @@
 langchain
 langgraph
-langchain-core
+langchain_core
 langchain-community
 langchain_groq
+arxiv
+pydantic
